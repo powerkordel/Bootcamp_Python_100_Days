@@ -15,6 +15,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bootcamp_day_4", "..\Bootca
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bootcamp_day_5", "..\Bootcamp_day_5\Bootcamp_day_5.pyproj", "{03CAA3AB-48D0-47E5-8530-ED206BD3F402}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bootcamp_day_6", "..\Bootcamp_day_6\Bootcamp_day_6.pyproj", "{9FAC79A5-D05F-4312-8A93-0864E6BA2E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{8C981149-24EE-40E9-B02A-6157D8F9B21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03CAA3AB-48D0-47E5-8530-ED206BD3F402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03CAA3AB-48D0-47E5-8530-ED206BD3F402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAC79A5-D05F-4312-8A93-0864E6BA2E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAC79A5-D05F-4312-8A93-0864E6BA2E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
